@@ -1,0 +1,17 @@
+# Site settings
+title: Rickard's Budo Notes
+email: rickardvh@gmail.com
+description: >
+  Notes on iaido, jodo, and kendo kata, by Rickard von Haugwitz.
+baseurl: "/budo-notes"
+url: "http://rickardvh.github.io"
+github_username:  rickardvh
+
+# Build settings
+markdown: GFM
+permalink: /:year/:title:output_ext
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-remote-theme
+minima:
+  skin: auto
