@@ -4,7 +4,8 @@ author: Rickard von Haugwitz
 email: rickardvh@gmail.com
 description: >
   Notes on iaido, jodo, and kendo kata.
-github_username:  rickardvh
+baseurl: ""
+url: "https://rickardvh.github.io"
 
 # Build settings
 markdown: GFM
